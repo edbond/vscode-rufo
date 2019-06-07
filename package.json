@@ -44,6 +44,6 @@
     "vscode": "^1.0.0"
   },
   "dependencies": {
-    "@types/node": "^8.0.9"
+    "@types/node": "^12.0.7"
   }
 }
